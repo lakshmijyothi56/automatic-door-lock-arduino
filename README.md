@@ -1,1 +1,2 @@
-# automatic-door-lock-arduino
+## Circuit Diagram
+![Circuit](circuit.png)
